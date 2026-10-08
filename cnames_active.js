@@ -3863,6 +3863,7 @@ var cnames_active = {
   "youtube-box": "lucasmonteverde.github.io/youtube-box", // noCF? (don´t add this in a new PR)
   "youtube-ext": "zyrouge.github.io/youtube-ext",
   "youtube-lite": "9oelm.github.io/youtube-lite",
+  "youtubefacelessacademy": "rafalete01.github.io",
   "yt-dislikes-viewer": "pgamerx.github.io/yt-dislikes-viewer",
   "yt-quota-manager": "arnav-kr.github.io/yt-quota-manager",
   "yu": "yuxizhe.github.io/yu",
